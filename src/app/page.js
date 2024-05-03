@@ -6,7 +6,7 @@ export default function Home() {
             <section className="w-full pt-12 md:pt-24 lg:pt-32 px-4 md:px-6 space-y-10 xl:space-y-16">
                 <div className="max-w-[1300px] mx-auto grid gap-4 px-4 sm:px-6 md:px-10 grid-cols-1 md:grid-cols-2 lg:gap-16">
                     <div className='my-8 space-y-6'>
-                        <h1 className="text-58xl sm:text-8xl md:text-8xl lg:text-8xl font-extrabold tracking-tighter">
+                        <h1 className="text-5xl sm:text-8xl md:text-8xl lg:text-8xl font-extrabold tracking-tighter">
                             Tu Chef en whatsapp
                         </h1>
                         <p className="text-black md:text-3xl sm:text-xl max-w-xl mx-auto">
